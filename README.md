@@ -14,7 +14,7 @@ Technologies 👉 GSAP</p>
 
 <br>
 
-🌐 Live Demo: <a href='https://shoqqan.github.io/creative-cursor-website/'>Live Demo</a>
+🌐 Live Demo: <a href='https://shoqqan.github.io/creative-scroll-website/'>Live Demo</a>
 
 <h3>Created with:</h3>
 
